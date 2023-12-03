@@ -34,6 +34,7 @@ The code is organized into modular components for each model, making it easy to 
 ### Conclusion
 
 This demand forecasting project provides a comprehensive exploration of various machine learning models, their implementation, and the evaluation of their performance. The README serves as a guide to understanding the project's approach, assumptions, hurdles faced, solutions implemented, and the results obtained. The project's success is not only measured by the code but also by the clarity and transparency provided in this explanatory documentation.
-For any inquiries or further details, please contact [Your Full Name] at venkatesh.mungi.datascientist@gmail.com.
+For any inquiries or further details, please contact at venkatesh.mungi.datascientist@gmail.com.
+
 Happy forecasting! 🚀
 
