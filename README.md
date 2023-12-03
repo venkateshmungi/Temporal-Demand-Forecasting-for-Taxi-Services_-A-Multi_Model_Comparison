@@ -21,9 +21,11 @@ The approach taken in this project involves the following key steps:
 6.	Results:
 •	The results are presented in tabular form, showcasing the performance metrics for each model.
 •	Interpretation and selection of the best model are based on a thorough analysis of these metrics, considering the unique requirements of the demand forecasting task.
-Code Organization
+
+### Code Organization
 The code is organized into modular components for each model, making it easy to understand, modify, and experiment with different approaches. The models directory contains implementations for linear regression, XGBoost, ARIMA, DNN, LSTM, and Random Forest. The evaluation_metrics module contains functions for calculating the evaluation metrics.
-Instructions
+
+### Instructions
 1.	Clone the repository: git clone https://github.com/yourusername/demand-forecasting.git
 2.	Navigate to the project directory: cd demand-forecasting
 3.	Install the required dependencies: pip install -r requirements.txt
